@@ -3,11 +3,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
 
-
+// prevent selfie from stretching
 img[height="250px"]{
 	object-fit: cover;
 }
 
+// remove language flags
+.language-icon{
+	display: none;
+}
 
 html {
 	font-size: 62.5%;

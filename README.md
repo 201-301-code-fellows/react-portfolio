@@ -18,11 +18,22 @@ Estimate of time needed to complete: 60mins
 
 Start time: 1715
 
-Finish time: 
-
-Actual time needed to complete:  mins
+Finish time: 1800
+Actual time needed to complete: 45mins
 
 ---------------------------------------
+
+Number and name of feature: Feature 3: Skills and Experience
+
+Estimate of time needed to complete: 60mins
+
+Start time: 1715
+
+Finish time: 1800
+Actual time needed to complete: 45mins
+
+---------------------------------------
+
 
 Live view on:  
 tm-lbenson-portfolio.netlify.app  
