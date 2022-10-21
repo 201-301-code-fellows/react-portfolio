@@ -1,14 +1,28 @@
 [# My Portfolio]
 
-Number and name of feature: Feature 1: Professional History
+---------------------------------------
+Number and name of feature: Feature 1: About Me Page
 
 Estimate of time needed to complete: 30mins
 
 Start time: 1630
 
-Finish time: _____
+Finish time: 1715
 
-Actual time needed to complete: _____
+Actual time needed to complete: 45 mins
+
+---------------------------------------
+Number and name of feature: Feature 2: Projects Section
+
+Estimate of time needed to complete: 60mins
+
+Start time: 1715
+
+Finish time: 
+
+Actual time needed to complete:  mins
+
+---------------------------------------
 
 Live view on:  
 tm-lbenson-portfolio.netlify.app  
