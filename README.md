@@ -31,7 +31,7 @@ Start time: 1715
 
 Finish time: 1800
 Actual time needed to complete: 45mins
-
+Completed feature 3 the same time as 2.
 ---------------------------------------
 
 
