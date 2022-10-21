@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "React Expense Tracker",
+        "startDate": "2022",
+        "description": "Personal project I have been working on while completing an online React Course through Udemy. One of my hobbies is learning newer technologies and building cool apps!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/expense/expense-app.png",
+          "images/portfolio/expense/expense-app2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://tm-lbenson.github.io/react-expense-app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,63 +55,65 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Guess a number!",
+        "startDate": "2022",
+        "description": "One of the first apps I built while learning the basics of DOM manipulation. What makes this app special is my use of increasing difficulty for each level! Try to beat my high-score of 810!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/guess/guess-num.png",
+          "images/portfolio/guess/guess-num2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://tm-lbenson.github.io/guessAnumber/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
+      
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Self Taught with Udemy",
+        "title": "Student",
+        "years": "01.2022 - 09.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "PostgreSQL",
+          "HTML5",
+          "CSS3",
+          "MongoDB",
+          "EJS",
+          "Express",
+          "PhotoShop",
+          "Python",
+          "Django",
+          "Sass"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "09.2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Full Stack Development"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "React",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HTML5",
+          "CSS",
+          "React-Bootstrap",
+          "Node.JS"
         ]
       }
     ]
