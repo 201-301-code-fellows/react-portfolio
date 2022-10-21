@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #bbb1a6;
       opacity: 0.8;
    }
 
@@ -35,9 +35,17 @@ body[data-theme="dark"] {
    header {
       background-color: #494949;
       h1 {
-         color: white;
+         color: #bbb186 !important;
+      }
+      background-image: linear-gradient(to bottom, rgba(8, 8, 9, 0.512), rgba(156, 40, 42, 0.429)), url("https://raw.githubusercontent.com/tm-LBenson/All-Css-Portfolio/master/css/grassyhill.jpg");
+      
+      .title-container{
+         color: #bbb186 !important;
+         font-size: 1.2rem !important;
       }
    }
+
+
 
    #about {
       background-color: #7f7f7f;

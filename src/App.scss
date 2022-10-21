@@ -13,6 +13,20 @@ img[height="250px"]{
 	display: none;
 }
 
+.nav-link{
+	color: black !important;
+	&:hover{
+		color:rgba(0, 0, 0, .3) !important;
+	}
+}
+
+h1{
+	color: #000000 !important;
+}
+.title-container{
+	color:#000 !important;
+	font-size: 1.2rem !important;
+}
 html {
 	font-size: 62.5%;
 	-webkit-font-smoothing: antialiased;
@@ -49,7 +63,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url('https://raw.githubusercontent.com/tm-LBenson/All-Css-Portfolio/master/css/grassyhill.jpg');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
