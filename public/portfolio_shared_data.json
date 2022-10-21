@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Lewis Benson",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full stack developer and business solutions expert" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "selfie.png"
     },
     "skills": {
       "icons": [
@@ -29,13 +29,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
           "level": "90"
         },
         {
@@ -59,8 +59,8 @@
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
           "level": "60"
         }
       ]
