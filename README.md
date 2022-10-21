@@ -23,7 +23,18 @@ Actual time needed to complete: 45mins
 
 ---------------------------------------
 
-Number and name of feature: Feature 3: Skills and Experience
+Number and name of feature: Feature 3: Experience and skills
+
+Estimate of time needed to complete: 60mins
+
+Start time: 1830
+
+Finish time: 1800
+Actual time needed to complete: 45mins
+
+---------------------------------------
+
+Number and name of feature: Feature 4: Styles
 
 Estimate of time needed to complete: 60mins
 
@@ -31,7 +42,7 @@ Start time: 1715
 
 Finish time: 1800
 Actual time needed to complete: 45mins
-Completed feature 3 the same time as 2.
+
 ---------------------------------------
 
 
