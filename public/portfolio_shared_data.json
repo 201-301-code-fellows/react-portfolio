@@ -1,68 +1,68 @@
 {
-    "basic_info": {
-      "name": "Lewis Benson",
-      "titles": [ "Full stack developer and business solutions expert" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/tm-LBenson",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.linkedin.com/in/tm-lewis-benson/",
-          "class": "fab fa-linkedin"
-        }
-      ],
-      "image": "selfie.png"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Photoshop",
-          "class": "devicon-photoshop-plain",
-          "level": "80"
-        },
-        {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "65"
-        },
-        {
-          "name": "PostgreSQL",
-          "class": "devicon-postgresql-plain",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Lewis Benson",
+    "titles": ["Full stack developer and business solutions expert"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/tm-LBenson",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tm-lewis-benson/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "selfie.png"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Photoshop",
+        "class": "devicon-photoshop-plain",
+        "level": "80"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "65"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      }
+    ]
   }
+}
